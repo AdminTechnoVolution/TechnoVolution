@@ -1,0 +1,420 @@
+{
+  "meta": {
+    "home": {
+      "title": "Innovation, die mit Ihnen wächst",
+      "description": "Techno Volution entwickelt digitale Lösungen, Software und innovative Produkte. Mobile Entwicklung, Webplattformen und Unternehmenslösungen."
+    },
+    "about": {
+      "title": "Über uns",
+      "description": "Erfahren Sie mehr über Mission, Vision und Werte von Techno Volution. Technologie mit Zweck für die digitale Evolution."
+    },
+    "products": {
+      "title": "Produkte",
+      "description": "Entdecken Sie Single, Play4Cash und unsere Entwicklungsdienstleistungen: Mobile Apps, Webplattformen und Unternehmenslösungen."
+    },
+    "clients": {
+      "title": "Kunden",
+      "description": "Unternehmen und Institutionen, die Techno Volution vertrauen, um ihre digitale Transformation voranzutreiben."
+    },
+    "team": {
+      "title": "Team",
+      "description": "Lernen Sie das Gründerteam von Techno Volution kennen: Führung mit Vision in Technologie, Produkt und Innovation."
+    },
+    "careers": {
+      "title": "Karriere",
+      "description": "Werden Sie Teil von Techno Volution. Wir suchen Talente mit Leidenschaft für Technologie, Innovation und digitales Produkt."
+    },
+    "contact": {
+      "title": "Kontakt",
+      "description": "Kontaktieren Sie uns, um zu erfahren, wie Techno Volution Sie bei Ihrer digitalen Evolution unterstützen kann."
+    },
+    "site": {
+      "title": "Techno Volution — Innovation, die mit Ihnen wächst",
+      "description": "Techno Volution ist ein Technologieunternehmen, das sich auf digitale Lösungen, Software und innovative Produkte konzentriert. Mobile Entwicklung, Webplattformen und Unternehmenslösungen."
+    }
+  },
+  "nav": {
+    "about": "Über uns",
+    "products": "Produkte",
+    "clients": "Kunden",
+    "team": "Team",
+    "careers": "Karriere",
+    "contact": "Kontakt",
+    "contactCta": "Kontakt aufnehmen"
+  },
+  "footer": {
+    "products": "Produkte",
+    "company": "Unternehmen",
+    "careers": "Karriere",
+    "contact": "Kontakt",
+    "tagline": "Entwickelt, um zu wachsen. Technologie, Innovation und digitales Produkt.",
+    "copyright": "© {year} Techno Volution. Alle Rechte vorbehalten.",
+    "links": {
+      "mobileApps": "Mobile Anwendungen",
+      "webPlatforms": "Webplattformen",
+      "enterprise": "Unternehmenslösungen",
+      "customSoftware": "Individuelle Software",
+      "aboutUs": "Über uns",
+      "missionVision": "Mission & Vision",
+      "values": "Werte",
+      "team": "Team",
+      "opportunities": "Stellenangebote",
+      "sendResume": "Lebenslauf senden",
+      "contactUs": "Kontakt aufnehmen"
+    }
+  },
+  "hero": {
+    "badge": "Technologie · Innovation · Evolution",
+    "titleHighlight": "Innovation, die",
+    "titleRest": "mit Ihnen wächst",
+    "subtitle": "Wir entwerfen und entwickeln digitale Lösungen, Software und Technologieprodukte, die Ideen in wirkungsvolle Erlebnisse verwandeln.",
+    "ctaProducts": "Unsere Produkte entdecken",
+    "ctaCareers": "Unserem Team beitreten",
+    "ctaContact": "Kontakt aufnehmen",
+    "explore": "Entdecken"
+  },
+  "about": {
+    "overline": "Über uns",
+    "title": "Technologie mit Zweck",
+    "description": "Ein Technologieunternehmen, das sich auf digitale Lösungen, Software und innovative Produkte konzentriert, die die Transformation von Unternehmen und Nutzern weltweit vorantreiben.",
+    "body": "Techno Volution entstand aus der Überzeugung, dass Technologie ein echter Motor der Evolution sein muss. Wir entwickeln wirkungsvolle Software, eigene digitale Produkte und Unternehmensplattformen, die Innovation, Qualität und Skalierbarkeit vereinen. Unser Ansatz integriert Design, Engineering und Produktvision, um Lösungen zu liefern, die Bestand haben und mit unseren Kunden wachsen.",
+    "missionTitle": "Mission",
+    "visionTitle": "Vision",
+    "mission": "Wirkungsvolle Technologielösungen schaffen, die Unternehmen und Nutzer bei ihrer digitalen Evolution unterstützen.",
+    "vision": "Ein weltweit anerkanntes Technologieunternehmen werden, das für innovative, skalierbare und nützliche digitale Produkte bekannt ist."
+  },
+  "values": {
+    "overline": "Werte",
+    "title": "Was uns ausmacht",
+    "subtitle": "Grundsätze, die jede Entscheidung, jedes Produkt und jede Beziehung leiten, die wir aufbauen.",
+    "items": {
+      "innovacion": {
+        "title": "Innovation",
+        "description": "Wir erkunden neue Technologien und Ansätze, um Probleme kreativ zu lösen."
+      },
+      "calidad": {
+        "title": "Qualität",
+        "description": "Jede Codezeile und jedes Designdetail spiegelt unser Engagement für Exzellenz wider."
+      },
+      "confianza": {
+        "title": "Vertrauen",
+        "description": "Wir bauen dauerhafte Beziehungen auf Basis von Transparenz, Zuverlässigkeit und Ergebnissen."
+      },
+      "velocidad": {
+        "title": "Umsetzungsgeschwindigkeit",
+        "description": "Wir bringen Ideen mit Agilität in die Produktion, ohne Qualität oder Sicherheit zu opfern."
+      },
+      "equipo": {
+        "title": "Teamarbeit",
+        "description": "Wir arbeiten disziplinübergreifend zusammen, um kohärente, integrierte Produkte zu schaffen."
+      },
+      "escalabilidad": {
+        "title": "Skalierbarkeit",
+        "description": "Wir entwerfen Architekturen, die mit dem Geschäft und der Nachfrage mitwachsen."
+      },
+      "seguridad": {
+        "title": "Sicherheit",
+        "description": "Wir schützen Daten und Systeme mit robusten Praktiken bereits im initialen Design."
+      },
+      "ux": {
+        "title": "Nutzererlebnis",
+        "description": "Wir priorisieren intuitive Oberflächen, die echten Mehrwert für die Nutzer schaffen."
+      }
+    }
+  },
+  "products": {
+    "overline": "Produkte & Dienstleistungen",
+    "title": "Lösungen für die digitale Evolution",
+    "subtitle": "Entdecken Sie unsere eigenen Produkte und die Entwicklungsdienstleistungen, mit denen wir Ihr Geschäft skalieren.",
+    "featuredLabel": "Unsere Produkte",
+    "servicesLabel": "Entwicklungsdienstleistungen",
+    "visitSite": "Website besuchen",
+    "learnMore": "Mehr erfahren",
+    "featured": {
+      "single": {
+        "name": "Single",
+        "description": "Soziale Plattform für authentische Verbindungen. Entwickelt, um Ihren Funken mit einem modernen, intuitiven Erlebnis zu entdecken."
+      },
+      "play4cash": {
+        "name": "Play4Cash (P4C)",
+        "description": "Gaming-Plattform, auf der Spielen sich lohnt. Wettbewerbsunterhaltung mit echten Anreizen für die Community."
+      }
+    },
+    "services": {
+      "mobile": {
+        "name": "Mobile Anwendungen",
+        "description": "Native und hybride Apps mit flüssigen Erlebnissen für iOS und Android, entwickelt für Skalierung."
+      },
+      "web": {
+        "name": "Webplattformen",
+        "description": "Moderne Portale, Dashboards und Webanwendungen mit robusten, responsiven Architekturen."
+      },
+      "enterprise": {
+        "name": "Unternehmenslösungen",
+        "description": "Maßgeschneiderte Systeme, die Prozesse optimieren, Teams integrieren und Abläufe beschleunigen."
+      },
+      "realtime": {
+        "name": "Echtzeitsysteme",
+        "description": "Plattformen für Instant-Kommunikation, Benachrichtigungen und Live-Datensynchronisation."
+      },
+      "automation": {
+        "name": "Automatisierung & individuelle Software",
+        "description": "Individuelle Entwicklung, die Workflows automatisiert, Kosten senkt und die Effizienz steigert."
+      }
+    }
+  },
+  "serviceDetails": {
+    "mobile": {
+      "metaDescription": "Entwicklung nativer und hybrider Mobile Apps für iOS und Android mit skalierbaren, leistungsstarken Erlebnissen.",
+      "subtitle": "Native und hybride Erlebnisse für iOS und Android – gebaut für Skalierung.",
+      "overview": "Wir entwerfen und entwickeln Mobile Apps, die intuitive Oberflächen mit solider Architektur verbinden. Von MVPs bis Enterprise-Apps liefern wir Produkte, die für App Store und Google Play bereit sind – mit Fokus auf Performance, Sicherheit und Wartbarkeit.",
+      "highlightsTitle": "Was wir liefern",
+      "highlights": [
+        "Native und plattformübergreifende Entwicklung (React Native)",
+        "UX/UI mit Fokus auf Retention und Conversion",
+        "Integrationen mit APIs, Zahlungen und Push-Benachrichtigungen",
+        "Veröffentlichung, Monitoring und kontinuierliche Weiterentwicklung"
+      ],
+      "capabilitiesTitle": "Kernkompetenzen",
+      "capabilities": [
+        {
+          "title": "Produkt & Design",
+          "description": "Nutzerforschung, Wireframes und ausgereifte Interfaces – abgestimmt auf Marke und Geschäftsziele."
+        },
+        {
+          "title": "Robuste Engineering",
+          "description": "Saubere Architektur, automatisierte Tests und CI/CD-Pipelines für zuverlässige Releases."
+        },
+        {
+          "title": "Skalierung & Performance",
+          "description": "Apps optimiert für Geschwindigkeit, Offline-Szenarien und Wachstum bei Nutzern und Features."
+        }
+      ],
+      "cta": "Sprechen wir über Ihre Mobile App",
+      "back": "Zurück zu Produkten"
+    },
+    "web": {
+      "metaDescription": "Moderne Webplattformen, Portale und Dashboards mit responsivem Design und skalierbarer Architektur.",
+      "subtitle": "Portale, Dashboards und moderne Webanwendungen mit robuster Architektur.",
+      "overview": "Wir bauen Webplattformen, die geschäftskritische Abläufe tragen: Kundenportale, interne Dashboards, SaaS-Produkte und Corporate-Websites. Jedes Projekt verbindet responsives Design, Performance und eine Basis, die mit Ihrem Unternehmen mitwächst.",
+      "highlightsTitle": "Was wir liefern",
+      "highlights": [
+        "Corporate-Websites und Landing Pages",
+        "Admin-Panels und operative Dashboards",
+        "SaaS-Plattformen und Kundenportale",
+        "SEO, Barrierefreiheit und Cloud-Deployment"
+      ],
+      "capabilitiesTitle": "Kernkompetenzen",
+      "capabilities": [
+        {
+          "title": "Modernes Frontend",
+          "description": "React, Next.js und Angular mit komponentenbasierten UIs, schnellen Ladezeiten und flüssigen Interaktionen."
+        },
+        {
+          "title": "Backend & APIs",
+          "description": "Sichere Services, Authentifizierung und Integrationen mit Ihren bestehenden Systemen."
+        },
+        {
+          "title": "Cloud-ready Delivery",
+          "description": "Deployment auf Azure oder Vercel mit Monitoring und skalierbarer Infrastruktur."
+        }
+      ],
+      "cta": "Sprechen wir über Ihre Webplattform",
+      "back": "Zurück zu Produkten"
+    },
+    "enterprise": {
+      "metaDescription": "Individuelle Enterprise-Software zur Prozessoptimierung, Teamintegration und Beschleunigung des Betriebs.",
+      "subtitle": "Maßgeschneiderte Systeme, die Prozesse optimieren und Ihren Betrieb beschleunigen.",
+      "overview": "Wir entwickeln Enterprise-Lösungen, die auf Ihre Workflows zugeschnitten sind: ERP-Integrationen, interne Tools, Freigabeprozesse und Reporting-Systeme. Unser Ziel: Reibung reduzieren, Teams verbinden und operative Komplexität in effiziente digitale Prozesse verwandeln.",
+      "highlightsTitle": "Was wir liefern",
+      "highlights": [
+        "Individuelle Module für bestehende Systeme",
+        "Rollenbasierter Zugriff und Audit-Trails",
+        "Workflow-Automatisierung und Freigaben",
+        "Reports, Analytics und Executive-Dashboards"
+      ],
+      "capabilitiesTitle": "Kernkompetenzen",
+      "capabilities": [
+        {
+          "title": "Prozessdigitalisierung",
+          "description": "Wir erfassen und automatisieren manuelle Abläufe mit messbarem Impact auf Zeit und Kosten."
+        },
+        {
+          "title": "Systemintegration",
+          "description": "Wir verbinden CRM, ERP, Zahlungsgateways und Drittanbieter-APIs in einem einheitlichen Flow."
+        },
+        {
+          "title": "Sicherheit & Compliance",
+          "description": "Enterprise-Authentifizierung, Verschlüsselung und Data-Governance-Praktiken."
+        }
+      ],
+      "cta": "Sprechen wir über Ihr Enterprise-Projekt",
+      "back": "Zurück zu Produkten"
+    },
+    "realtime": {
+      "metaDescription": "Echtzeitsysteme mit Live-Sync, sofortigen Benachrichtigungen und event-getriebener Architektur.",
+      "subtitle": "Sofortkommunikation, Benachrichtigungen und Live-Datensynchronisation.",
+      "overview": "Wir bauen Plattformen, bei denen jede Sekunde zählt: Live-Chats, Kollaborationstools, Echtzeit-Dashboards und Benachrichtigungssysteme. Mit WebSockets, Event-Streams und resilienten Backends liefern wir Erlebnisse, die sich sofort anfühlen und zuverlässig skalieren.",
+      "highlightsTitle": "Was wir liefern",
+      "highlights": [
+        "WebSockets und Live-Datenkanäle",
+        "Push- und In-App-Benachrichtigungssysteme",
+        "Kollaborative Multi-User-Erlebnisse",
+        "Hochverfügbare Architektur mit niedriger Latenz"
+      ],
+      "capabilitiesTitle": "Kernkompetenzen",
+      "capabilities": [
+        {
+          "title": "Live-Sync",
+          "description": "Echtzeit-Updates auf Web und Mobile ohne Seiten-Reload."
+        },
+        {
+          "title": "Event-getriebenes Design",
+          "description": "Message Queues und Pub/Sub-Muster für skalierbare, entkoppelte Systeme."
+        },
+        {
+          "title": "Monitoring & Zuverlässigkeit",
+          "description": "Observability, Fallbacks und Lasthandling für Production-Grade-Uptime."
+        }
+      ],
+      "cta": "Sprechen wir über Ihr Echtzeit-Projekt",
+      "back": "Zurück zu Produkten"
+    },
+    "automation": {
+      "metaDescription": "Individuelle Automatisierung und Software zur Workflow-Optimierung, Kostensenkung und Effizienzsteigerung.",
+      "subtitle": "Maßgeschneiderte Entwicklung, die Abläufe automatisiert und die Effizienz steigert.",
+      "overview": "Wir erstellen Software, die repetitive Arbeit eliminiert: interne Bots, API-Automatisierungen, individuelle Integrationen und Tools für Ihr Team. Jede Lösung spart Zeit, reduziert Fehler und entlastet Ihre Mitarbeitenden für wertschöpfende Aufgaben.",
+      "highlightsTitle": "Was wir liefern",
+      "highlights": [
+        "Workflow- und Prozessautomatisierung",
+        "Individuelle interne Tools und Skripte",
+        "API-Integrationen zwischen Plattformen",
+        "ROI-orientierte inkrementelle Lieferung"
+      ],
+      "capabilitiesTitle": "Kernkompetenzen",
+      "capabilities": [
+        {
+          "title": "Integrationsautomatisierung",
+          "description": "Wir verbinden Tabellen, CRMs, Abrechnungssysteme und Legacy-Tools automatisch."
+        },
+        {
+          "title": "Individuelle Tools",
+          "description": "Dashboards, Admin-Panels und Utilities – exakt für Ihren Betrieb gebaut."
+        },
+        {
+          "title": "Kontinuierliche Verbesserung",
+          "description": "Wir iterieren Automatisierungen mit Ihrem Geschäft – mit messbaren Ergebnissen."
+        }
+      ],
+      "cta": "Sprechen wir über Ihr Automatisierungsprojekt",
+      "back": "Zurück zu Produkten"
+    }
+  },
+  "clients": {
+    "overline": "Kunden",
+    "title": "Sie vertrauen uns",
+    "subtitle": "Unternehmen, die Techno Volution wählen, um ihre digitalen Produkte und Abläufe weiterzuentwickeln.",
+    "placeholder": "Platzhalter — durch echte Logos in src/config/clients.ts ersetzen",
+    "items": {
+      "client-1": { "label": "Enterprise-Kunde" },
+      "client-2": { "label": "Fintech-Kunde" },
+      "client-3": { "label": "Retail-Kunde" },
+      "client-4": { "label": "Gesundheits-Kunde" },
+      "client-5": { "label": "SaaS-Kunde" },
+      "client-6": { "label": "Globaler Kunde" }
+    }
+  },
+  "partnerships": {
+    "overline": "Partnerschaften",
+    "title": "Strategische Allianzen",
+    "subtitle": "Wir arbeiten mit Technologie-Ökosystemen zusammen, um robustere und skalierbarere Lösungen zu liefern.",
+    "placeholder": "Platzhalter — durch echte Partnerschaften in src/config/partnerships.ts ersetzen",
+    "items": {
+      "cloud": {
+        "name": "Cloud Providers",
+        "description": "Skalierbare, zuverlässige Cloud-Infrastruktur für globale Deployments."
+      },
+      "tech": {
+        "name": "Technology Partners",
+        "description": "Allianzen mit Technologieführern, um Innovation zu beschleunigen."
+      },
+      "integration": {
+        "name": "Integration Partners",
+        "description": "Connectors und APIs, die komplexe Unternehmens-Ökosysteme vereinen."
+      },
+      "strategic": {
+        "name": "Strategic Partners",
+        "description": "Strategische Kooperationen zur Erweiterung von Fähigkeiten und Märkten."
+      }
+    }
+  },
+  "team": {
+    "overline": "Führungsteam",
+    "title": "Führung mit Vision",
+    "subtitle": "Ein Team mit Leidenschaft für Technologie, das Produkte entwickelt, die Branchen weiterentwickeln.",
+    "members": {
+      "darri": {
+        "role": "Founder & CEO",
+        "description": "Führt die strategische Vision von Techno Volution und treibt Innovation, Produkt und globales Wachstum voran."
+      },
+      "edison": {
+        "role": "Founder & COO",
+        "description": "Überwacht den Tagesbetrieb, optimiert Prozesse und stellt die pünktliche, effiziente Lieferung jedes Projekts sicher."
+      },
+      "cristian": {
+        "role": "Founder & CTO",
+        "description": "Definiert die Technologiestrategie, führt das Engineering-Team und entwirft skalierbare Architekturen, die Produktinnovation vorantreiben."
+      }
+    }
+  },
+  "careers": {
+    "overline": "Karriere",
+    "title": "Gestalten Sie die Zukunft mit uns",
+    "description": "Bei Techno Volution suchen wir Menschen mit Leidenschaft für Technologie, Innovation und digitales Produkt. Wenn Sie von Software, Design, Mobile, Backend, Frontend, Cloud und dem Aufbau wirkungsvoller Produkte angetrieben werden, freuen wir uns auf Sie.",
+    "sendResume": "Lebenslauf senden",
+    "viewOpportunities": "Stellenangebote ansehen",
+    "joinTitle": "Dem Team beitreten",
+    "joinSubtitle": "Frontend · Backend · Mobile · Cloud · Produkt",
+    "highlights": [
+      "Kultur kontinuierlicher Innovation",
+      "Anspruchsvolle Projekte mit hoher Wirkung",
+      "Remote- und Hybridarbeit",
+      "Beschleunigtes berufliches Wachstum"
+    ]
+  },
+  "technologies": {
+    "overline": "Technologien",
+    "title": "Stack, der unsere Produkte antreibt",
+    "subtitle": "Moderne Tools und Plattformen, mit denen wir robuste, skalierbare und leistungsstarke Lösungen entwickeln.",
+    "items": {
+      "realtime": { "name": "Echtzeitsysteme" },
+      "mobile": { "name": "Mobile Apps" }
+    }
+  },
+  "contact": {
+    "overline": "Kontakt",
+    "title": "Sprechen wir über Ihr nächstes Projekt",
+    "subtitle": "Erzählen Sie uns von Ihrer Idee, Herausforderung oder Ihrem Bedarf. Wir sind bereit, Sie bei Ihrer digitalen Evolution zu unterstützen.",
+    "email": "E-Mail",
+    "global": "Global",
+    "globalDescription": "Wir arbeiten remote mit internationaler Reichweite.",
+    "successTitle": "Nachricht erhalten!",
+    "successMessage": "Vielen Dank für Ihre Nachricht. Wir melden uns in Kürze bei Ihnen.",
+    "name": "Name",
+    "namePlaceholder": "Ihr Name",
+    "emailPlaceholder": "sie@email.com",
+    "company": "Unternehmen",
+    "companyPlaceholder": "Name Ihres Unternehmens",
+    "message": "Nachricht",
+    "messagePlaceholder": "Erzählen Sie uns von Ihrem Projekt...",
+    "submit": "Nachricht senden"
+  },
+  "company": {
+    "name": "Techno Volution",
+    "tagline": "Wir gestalten die digitale Zukunft",
+    "email": "contacto@technovolution.com"
+  },
+  "languageSwitcher": {
+    "label": "Sprache"
+  }
+}
