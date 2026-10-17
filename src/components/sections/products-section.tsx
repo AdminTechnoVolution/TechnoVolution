@@ -104,7 +104,7 @@ export function ProductsSection() {
           </p>
         </AnimatedSection>
 
-        <StaggerContainer className="mb-16 grid gap-6 md:grid-cols-2">
+        <StaggerContainer className="mb-16 grid gap-6 md:grid-cols-2 lg:grid-cols-3">
           {featuredProductCatalog.map((product, index) => {
             const copy = t.products.featured[product.id as FeaturedProductId];
             return (

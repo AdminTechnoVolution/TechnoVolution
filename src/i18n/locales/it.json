@@ -10,7 +10,7 @@
     },
     "products": {
       "title": "Prodotti",
-      "description": "Scopri Single, Play4Cash e i nostri servizi di sviluppo: app mobile, piattaforme web e soluzioni enterprise."
+      "description": "Scopri Single, Play4Cash, UnlockIt Adventure, Mero Chef, Anty Spend e i nostri servizi di sviluppo: app mobile, piattaforme web e soluzioni enterprise."
     },
     "clients": {
       "title": "Clienti",
@@ -138,6 +138,18 @@
       "play4cash": {
         "name": "Play4Cash (P4C)",
         "description": "Piattaforma gaming dove giocare diventa gratificante. Intrattenimento competitivo con incentivi reali per la community."
+      },
+      "unlockit": {
+        "name": "UnlockIt Adventure",
+        "description": "App di monitoraggio delle avventure per Android e iOS. Scopri gruppi di avventura, segui i tuoi progressi, condividi le esperienze con i tuoi compagni e salva foto e note di ogni uscita."
+      },
+      "merochef": {
+        "name": "Mero Chef",
+        "description": "App di cucina intelligente per Android e iOS. Tieni traccia degli alimenti che hai in casa, ricevi avvisi prima che scadano e ottieni ricette suggerite dall'intelligenza artificiale."
+      },
+      "antyspend": {
+        "name": "Anty Spend",
+        "description": "App di finanza personale per Android e iOS. Gestisci spese, entrate, budget, debiti e obiettivi di risparmio offline, con sincronizzazione opzionale e funzioni di intelligenza artificiale."
       }
     },
     "services": {

@@ -17,7 +17,22 @@ export const featuredProductCatalog: ProductCatalogItem[] = [
   {
     id: "play4cash",
     logo: "/products/play4cash.png",
-    url: "https://p4c.techno-volution.com/",
+    url: "https://play4cash.net/",
+  },
+  {
+    id: "unlockit",
+    logo: "/products/unlockit.png",
+    url: "https://unlockit.techno-volution.com/",
+  },
+  {
+    id: "merochef",
+    logo: "/products/MeroChef.png",
+    url: "https://privacy.merochef.com/",
+  },
+  {
+    id: "antyspend",
+    logo: "/products/AntySpend.png",
+    url: "https://privacy.antyspend.com/",
   },
 ];
 
