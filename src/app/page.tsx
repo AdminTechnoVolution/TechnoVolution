@@ -1,5 +1,5 @@
-import { HeroSection } from "@/components/sections/hero-section";
+import { redirectToFallbackLocale } from "@/i18n/server";
 
 export default function HomePage() {
-  return <HeroSection />;
+  redirectToFallbackLocale("home");
 }

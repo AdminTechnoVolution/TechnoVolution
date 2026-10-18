@@ -1,17 +1,5 @@
-import type { Metadata } from "next";
-import { PageMain } from "@/components/layout/page-main";
-import { ProductsSection } from "@/components/sections/products-section";
-
-export const metadata: Metadata = {
-  title: "Productos",
-  description:
-    "Descubre Single, Play4Cash, UnlockIt Adventure, Mero Chef, Anty Spend y nuestros servicios de desarrollo: apps móviles, plataformas web y soluciones empresariales.",
-};
+import { redirectToFallbackLocale } from "@/i18n/server";
 
 export default function ProductsPage() {
-  return (
-    <PageMain>
-      <ProductsSection />
-    </PageMain>
-  );
+  redirectToFallbackLocale("products");
 }

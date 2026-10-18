@@ -1,17 +1,5 @@
-import type { Metadata } from "next";
-import { PageMain } from "@/components/layout/page-main";
-import { ContactSection } from "@/components/sections/contact-section";
-
-export const metadata: Metadata = {
-  title: "Contacto",
-  description:
-    "Contáctanos para conocer cómo Techno Volution puede ayudarte a evolucionar digitalmente.",
-};
+import { redirectToFallbackLocale } from "@/i18n/server";
 
 export default function ContactPage() {
-  return (
-    <PageMain>
-      <ContactSection />
-    </PageMain>
-  );
+  redirectToFallbackLocale("contact");
 }
